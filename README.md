@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 
 [![codewars](https://www.codewars.com/users/SCPAVELL/badges/large)](https://www.codewars.com/users/SCPAVELL)  
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pavel101)](https://github.com/pavel101/leetcode-stats)
